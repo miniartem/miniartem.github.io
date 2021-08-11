@@ -1,7 +1,7 @@
 site: Index Jekyll Theme
 
 url: https://miniartem.github.io
-baseurl: 
+# baseurl: 
 
 collections:
   pages:
