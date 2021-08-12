@@ -1,8 +1,7 @@
 site: mini's art gallery
 
 url: https://miniartem.github.io
-# repo: https://miniartem.github.io
-# baseurl: ""
+
 
 collections:
   pages:
